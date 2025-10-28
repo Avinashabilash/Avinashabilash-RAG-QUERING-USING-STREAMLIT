@@ -2,9 +2,8 @@ streamlit==1.50.0
 pdfplumber
 PyPDF2
 faiss-cpu
-sentence-transformers==2.2.2
+sentence-transformers
 numpy
 pandas
-torch==2.5.1
-transformers==4.36.0
-faiss-cpu==1.8.0
+torch
+transformers
